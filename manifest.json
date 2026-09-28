@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "myles.calculator",
   "name": "Calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Mylesoft",
   "license": "MIT",
   "description": "Modern multi-mode calculator with live FX, units, tip/VAT, history, and programmer tools",
